@@ -179,7 +179,7 @@ nav {
                 <a href="http://localhost/cee/">User Login</a>
             </div>
             <div class="whatsapp">
-                <a href="https://wa.me/1234567890" target="_blank">WhatsApp: 123-456-7890</a>
+                <a href="http://localhost/mailsender/index.php" target="_blank">New User Sign In</a>
             </div>
         </nav>
     </header>
