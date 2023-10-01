@@ -165,12 +165,15 @@ nav {
                 <input type="text" placeholder="Search...">
             </div>
             <div class="exam-dropdown">
-                <button class="dropbtn">Exams</button>
+                <!-- <button class="dropbtn">Exams</button>
                 <div class="dropdown-content">
-                    <a href="#">Exam 1</a>
-                    <a href="#">Exam 2</a>
-                    <a href="#">Exam 3</a>
-                </div>
+                    <a href="file:///C:/xampp/htdocs/CEE/dash_bored.html">Exam 1</a>
+                    <a href="file:///C:/xampp/htdocs/CEE/dash_bored.html">Exam 2</a>
+                    <a href="file:///C:/xampp/htdocs/CEE/dash_bored.html">Exam 3</a>
+                </div> -->
+                <div class="admin-login">
+                <a href="http://localhost/CEE/Courses.php">EXAMS</a>
+            </div>
             </div>
             <div class="admin-login">
                 <a href="http://localhost/cee/adminpanel/admin/">Admin Login</a>
